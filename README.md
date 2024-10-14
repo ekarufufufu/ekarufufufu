@@ -1,6 +1,8 @@
  Hi there 👋
 <p align-items = center>
+ <a>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Saya+benci+hari+senin)](https://git.io/typing-svg)
+ </a>
 </p>
 
 - 🔭 I’m currently working on something cool
