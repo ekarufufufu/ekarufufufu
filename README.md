@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning microcontoller and microprocessor
 - 💬 Ask me about anything
-- 📫 How to reach me: @ekarufufufu
+- 📫 How to reach me:<p><a href="github.com/ekarufufufu"></p>
 <!-- ⚡ Fun fact: -->
 
