@@ -1,6 +1,6 @@
  Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Saya+benci+hari+senin)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning microcontoller and microprocessor
