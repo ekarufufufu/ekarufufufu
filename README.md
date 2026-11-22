@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack & Tinkering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,flutter,dart,py,cpp,arduino,linux,git,github&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,flutter,dart,py,cpp,arduino,linux,git,github&perline=14" alt="Tech Stack" />
 </p>
 
 - **Embedded & IoT:** ESP32 / ESP8266, Arduino, MQTT, sensor integration & hardware prototyping
