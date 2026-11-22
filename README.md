@@ -18,7 +18,45 @@
 ## 🛠️ Tech Stack & Tinkering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,flutter,dart,py,cpp,arduino,linux,git,github&perline=14" alt="Tech Stack" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" title="JavaScript — MDN Docs" />
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" title="React — Documentation" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS — Docs" />
+  </a>
+  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" width="44" height="44" alt="PHP" title="PHP — Manual" />
+  </a>
+  <a href="https://laravel.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" width="44" height="44" alt="Laravel" title="Laravel — Documentation" />
+  </a>
+  <a href="https://docs.flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flutter" width="44" height="44" alt="Flutter" title="Flutter — Docs" />
+  </a>
+  <a href="https://dart.dev/guides" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dart" width="44" height="44" alt="Dart" title="Dart — Documentation" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" width="44" height="44" alt="Python" title="Python — Docs" />
+  </a>
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" width="44" height="44" alt="C++" title="C++ — Reference" />
+  </a>
+  <a href="https://docs.arduino.cc" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" width="44" height="44" alt="Arduino" title="Arduino — Docs" />
+  </a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" title="Linux — Kernel Docs" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" title="Git — Documentation" />
+  </a>
+  <a href="https://docs.github.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" title="GitHub — Docs" />
+  </a>
 </p>
 
 - **Embedded & IoT:** ESP32 / ESP8266, Arduino, MQTT, sensor integration & hardware prototyping
