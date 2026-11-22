@@ -6,12 +6,13 @@
   </a>
 </h1>
 
-## About me
-- 🔭 I’m currently working on **something cool**
-- 🌱 I’m currently learning **microcontroller** and **microprocessor**
-- 💬 Ask me about **anything**
-- 📫 How to reach me: shoot me an email at **haikalardiansyah359@gmail.com**, or WhatsApp **+62813 4631 5230**
-- ⚡ Fun fact: **nothing**
+## About Me
+Computer Engineering Technology student focused on **embedded systems, IoT prototyping, and full-stack web & mobile development**. Enjoy bridging hardware and software—from microcontroller firmware to clean, responsive user interfaces.
+
+- 🔭 Currently building **IoT prototypes, computer vision workflows, and interactive web applications**
+- 🌱 Deepening skills in **microcontrollers, microprocessors, and edge-to-cloud system integration**
+- 💬 Open for discussions and collaborations around **Embedded Systems, IoT, Web/Mobile Development, and Linux Homelabs**
+- 📫 Reach me via email at **haikalardiansyah359@gmail.com** or WhatsApp at **+62813 4631 5230**
 
 ---
 
