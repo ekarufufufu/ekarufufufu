@@ -13,4 +13,4 @@
 - 📫 How to reach me: shoot me an email at **haikalardiansyah359@gmail.com**, or WhatsApp **+62813 4631 5230**
 - ⚡ Fun fact: **nothing**
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b1fv6ju7hs5q0pvqt3gj9c7c7&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=b1fv6ju7hs5q0pvqt3gj9c7c7&width=700&radius=20)
