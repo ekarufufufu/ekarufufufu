@@ -17,47 +17,27 @@
 
 ## 🛠️ Tech Stack & Tinkering
 
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" title="JavaScript — MDN Docs" />
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" title="React — Documentation" />
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS — Docs" />
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" width="44" height="44" alt="PHP" title="PHP — Manual" />
-  </a>
-  <a href="https://laravel.com/docs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" width="44" height="44" alt="Laravel" title="Laravel — Documentation" />
-  </a>
-  <a href="https://docs.flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter" width="44" height="44" alt="Flutter" title="Flutter — Docs" />
-  </a>
-  <a href="https://dart.dev/guides" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart" width="44" height="44" alt="Dart" title="Dart — Documentation" />
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" width="44" height="44" alt="Python" title="Python — Docs" />
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" width="44" height="44" alt="C++" title="C++ — Reference" />
-  </a>
-  <a href="https://docs.arduino.cc" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" width="44" height="44" alt="Arduino" title="Arduino — Docs" />
-  </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" title="Linux — Kernel Docs" />
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" title="Git — Documentation" />
-  </a>
-  <a href="https://docs.github.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" title="GitHub — Docs" />
-  </a>
-</p>
+### Embedded & IoT
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://docs.arduino.cc)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org/documentation/)
+
+### Web & Mobile
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+
+### Homelab & Tools
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com)
 
 - **Embedded & IoT:** ESP32 / ESP8266, Arduino, MQTT, sensor integration & hardware prototyping
 - **Web & Mobile:** React, Tailwind CSS, Laravel, Flutter
