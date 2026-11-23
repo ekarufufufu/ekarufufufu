@@ -7,7 +7,7 @@
 </h1>
 
 ## About Me
-Hi, I'm **Muhammad Haikal Arya Pratama** (`ekal`), a Computer Engineering Technology student focused on **embedded systems, IoT prototyping, and full-stack web & mobile development**. I enjoy bridging hardware and software—from microcontroller firmware to clean, responsive applications.
+Hi, I'm **Muhammad Haikal Arya Pratama** (`ekal`), a **Computer Engineering Technology** student in the **Information Technology** department at **Politeknik Negeri Samarinda**. My interests center on **embedded systems, IoT prototyping, and full-stack web & mobile development**—bridging microcontroller hardware with clean, responsive software.
 
 - 🔭 Currently building **IoT prototypes, computer vision workflows, and interactive web applications**
 - 🌱 Deepening skills in **microcontrollers, microprocessors, and edge-to-cloud system integration**
