@@ -2,16 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Haikal+here+!&center=true&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=ekal+here+!&center=true&size=20" alt="Typing SVG" />
   </a>
 </h1>
 
 ## About Me
-Computer Engineering Technology student focused on **embedded systems, IoT prototyping, and full-stack web & mobile development**. Enjoy bridging hardware and software—from microcontroller firmware to clean, responsive user interfaces.
+Hi, I'm **Muhammad Haikal Arya Pratama** (`ekal`), a Computer Engineering Technology student focused on **embedded systems, IoT prototyping, and full-stack web & mobile development**. I enjoy bridging hardware and software—from microcontroller firmware to clean, responsive applications.
 
 - 🔭 Currently building **IoT prototypes, computer vision workflows, and interactive web applications**
 - 🌱 Deepening skills in **microcontrollers, microprocessors, and edge-to-cloud system integration**
 - 💬 Open for discussions and collaborations around **Embedded Systems, IoT, Web/Mobile Development, and Linux Homelabs**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-haikal-arya-pratama-38036a292/)
 - 📫 Reach me via email at **haikalardiansyah359@gmail.com** or WhatsApp at **+62813 4631 5230**
 
 ---
